@@ -1,5 +1,9 @@
 # demo-frame
 
+> **Переехал в [ui-kit](https://github.com/MarieSmi/ui-kit/tree/main/components/demo-frame).** Этот репозиторий
+> больше не обновляется. Прототипы на `demo-frame@1.0.0` продолжают работать. Чтобы перейти на кит, подключите
+> `ui-kit@1.0.0/tokens.css`, `ui-kit@1.0.0/components/demo-frame/demo-frame.css` и `.js` — API `DemoFrame.mount` тот же.
+
 Рамка для интерактивных демо-прототипов. В ней три части:
 
 - шапка с названием, версией и статусом согласования;
